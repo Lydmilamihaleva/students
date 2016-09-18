@@ -427,6 +427,10 @@
 .. _5.dz1.2-4: https://gist.github.com/mMatvey
 
 .. Домашняя работа #2
+.. |7.dz1.4| replace:: 1-5
+.. _7.dz1.4: https://gist.github.com/Lydmilamihaleva/3ae05e5e7b85ce66c94fc9ae50774b23
+
+
 
 .. Домашняя работа #3
 
